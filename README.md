@@ -7,3 +7,6 @@ Table.deleteRows(0, 1);
 roiManager("select", 1);
 
 roiManager("Delete");
+
+## 合并ROI
+more，XOR
