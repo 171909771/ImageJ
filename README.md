@@ -9,4 +9,4 @@ roiManager("select", 1);
 roiManager("Delete");
 
 ## 合并ROI
-more，XOR
+选中所有ROI后点more，点XOR，点add
